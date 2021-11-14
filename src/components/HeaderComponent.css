@@ -1,0 +1,27 @@
+.header-style {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    align-items: baseline;
+    padding: 1em;
+    margin-bottom: 2em;
+    background-color: rgb(9, 120, 172);
+    color: #fff;
+  }
+.button {
+    align-items: 'center';
+    justify-content:center ;
+    padding: 12;
+    border-radius: 4;
+    background-color: 'white';
+    cursor: pointer;
+  }
+.text {
+    font-size: 16;
+    line-height: 21;
+    font-weight: 'bold';
+    letter-spacing: 0.25;
+    background-color: rgb(9, 120, 172);
+}
+   
